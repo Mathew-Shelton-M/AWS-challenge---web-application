@@ -1,0 +1,2 @@
+ALTER TABLE refresh_tokens
+  ADD COLUMN IF NOT EXISTS last_activity_at TIMESTAMPTZ NOT NULL DEFAULT NOW();
