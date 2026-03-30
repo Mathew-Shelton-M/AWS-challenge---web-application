@@ -137,6 +137,6 @@
 
 - [x] 13.1 Run all property-based tests (minimum 100 iterations each) and confirm all 30 properties pass
 - [x] 13.2 Run all unit/integration tests and confirm full pass
-- [~] 13.3 Manually verify dashboard alert flow: add product → reduce stock below threshold → alert appears → acknowledge → alert removed
-- [~] 13.4 Manually verify expiry flow: set near-expiry product → near_expiry alert appears on dashboard
-- [~] 13.5 Manually verify CSV export for each report type
+- [ ] 13.3 Manually verify dashboard alert flow: add product → reduce stock below threshold → alert appears → acknowledge → alert removed
+- [ ] 13.4 Manually verify expiry flow: set near-expiry product → near_expiry alert appears on dashboard
+- [ ] 13.5 Manually verify CSV export for each report type
